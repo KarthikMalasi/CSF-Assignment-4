@@ -23,7 +23,7 @@ Phase 4: Final Testing
 Checked responsiveness
 Fixed spacing, alignment
 
-![Project Preview](sample.jpeg)
+![Project Preview](https://github.com/KarthikMalasi/CSF-Assignment-4/blob/a4a2244461d3b7525758b8272b7b0bc8c7919e4f/Sample.png)
 
 
 
