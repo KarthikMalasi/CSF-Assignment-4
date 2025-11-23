@@ -3,13 +3,7 @@ The project includes a hero section, navigation bar, projects section, skills ta
 
 1.Features
 
-Responsive header & navigation
-Hero section with introduction
-Projects section (4 sample projects)
-Skills table
-Contact form
-Hover effects and clean UI
-Back to top button
+Responsive header & navigation | Hero section with introduction | Projects section | Skills table | Contact form | Hover effects and clean UI | Back to top button |
 
 2.development-process
 
@@ -28,5 +22,10 @@ Pushed to GitHub
 Phase 4: Final Testing
 Checked responsiveness
 Fixed spacing, alignment
+
+![Project Preview](sample.png)
+
+
+
 
 
