@@ -23,7 +23,7 @@ Phase 4: Final Testing
 Checked responsiveness
 Fixed spacing, alignment
 
-![Project Preview](sample.png)
+![Project Preview](sample.jpeg)
 
 
 
